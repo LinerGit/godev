@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"godev/model"
+	"github.com/LinerGit/godev/model"
 
 	"github.com/redis/go-redis/v9"
 )

@@ -3,9 +3,10 @@ package main
 import (
 	"context"
 	"fmt"
-	"godev/app"
 	"os"
 	"os/signal"
+
+	"github.com/LinerGit/godev/app"
 )
 
 func main() {
