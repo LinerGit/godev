@@ -1,4 +1,4 @@
-module godev
+module github.com/LinerGit/godev
 
 go 1.25.0
 
